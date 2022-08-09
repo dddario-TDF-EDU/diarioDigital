@@ -1,0 +1,37 @@
+body {
+    background-color: #bcfae8;
+}
+
+.componentes {
+    background-color: #2fb8a3;
+}
+
+h5~p {
+    color: white;
+}
+
+h5>a {
+    text-decoration: none;
+    color: black;
+}
+
+.subtitulo {
+    opacity: 0.6;
+}
+
+p>small {
+    color: black;
+    opacity: 0.9;
+    background-color: #2fb8a3;
+}
+
+li>a:hover {
+    text-decoration: underline;
+}
+
+.borderColor {
+    border: 0.8vh;
+    border-style:inset;
+    border-color: #2fb8a3;
+}
+
